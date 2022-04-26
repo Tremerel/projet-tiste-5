@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100%;
+  background: #e4e4e4;
+  overflow-x: hidden;
+}
