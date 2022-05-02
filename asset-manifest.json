@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.debbce4e.css",
-    "main.js": "/static/js/main.8060de79.js",
+    "main.css": "/static/css/main.733c791b.css",
+    "main.js": "/static/js/main.409edf0f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/photo-creation-1.jpg": "/static/media/photo-creation-1.2c28c6fa4bf7cabad9b8.jpg",
     "static/media/img-couverture-1.jpg": "/static/media/img-couverture-1.c2fc44b93ab0741dac8f.jpg",
+    "static/media/Maelwenn_animation_logo_La_Rose_des_vents.mp4": "/static/media/Maelwenn_animation_logo_La_Rose_des_vents.74686b9663b7838e1d5c.mp4",
     "static/media/img-couverture-3.jpg": "/static/media/img-couverture-3.7afb6086e5db2adaedf2.jpg",
-    "static/media/logo.svg": "/static/media/logo.fabea0a204db5d8e65ff7421125f2f0c.svg",
     "static/media/logo-minimal-horizontale.svg": "/static/media/logo-minimal-horizontale.2ae0f09416fe5aeed3ee465b2c904414.svg",
+    "static/media/logo - La Rose des Vents - png - fond noir.png": "/static/media/logo - La Rose des Vents - png - fond noir.6e34bbbcf8d1136a3e47.png",
     "static/media/img-couverture-2.jpg": "/static/media/img-couverture-2.b82931215b800c97cefe.jpg",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/YesevaOne-Regular.ttf": "/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
+    "static/media/Aviano-Sans-Light.ttf": "/static/media/Aviano-Sans-Light.cbd70527e2eda2c139ea.ttf",
     "static/media/logo-minimal-noir.svg": "/static/media/logo-minimal-noir.2796df06db3bfd1799cc6a67f457637c.svg",
     "index.html": "/index.html",
-    "main.debbce4e.css.map": "/static/css/main.debbce4e.css.map",
-    "main.8060de79.js.map": "/static/js/main.8060de79.js.map",
+    "main.733c791b.css.map": "/static/css/main.733c791b.css.map",
+    "main.409edf0f.js.map": "/static/js/main.409edf0f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.debbce4e.css",
-    "static/js/main.8060de79.js"
+    "static/css/main.733c791b.css",
+    "static/js/main.409edf0f.js"
   ]
 }
