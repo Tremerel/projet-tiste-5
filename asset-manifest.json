@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.733c791b.css",
-    "main.js": "/static/js/main.409edf0f.js",
+    "main.css": "/static/css/main.33f74491.css",
+    "main.js": "/static/js/main.d28f7e03.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/photo-creation-1.jpg": "/static/media/photo-creation-1.2c28c6fa4bf7cabad9b8.jpg",
-    "static/media/img-couverture-1.jpg": "/static/media/img-couverture-1.c2fc44b93ab0741dac8f.jpg",
+    "static/media/IMG_20220315_173316.jpg": "/static/media/IMG_20220315_173316.42496101c75823b36e80.jpg",
+    "static/media/IMG_20220315_112622.jpg": "/static/media/IMG_20220315_112622.e68864e2f7c3d4c32aaf.jpg",
+    "static/media/IMG_20211118_154509.jpg": "/static/media/IMG_20211118_154509.3b1dc1604e304617fba5.jpg",
     "static/media/Maelwenn_animation_logo_La_Rose_des_vents.mp4": "/static/media/Maelwenn_animation_logo_La_Rose_des_vents.74686b9663b7838e1d5c.mp4",
-    "static/media/img-couverture-3.jpg": "/static/media/img-couverture-3.7afb6086e5db2adaedf2.jpg",
+    "static/media/img-couverture-5-2.jpg": "/static/media/img-couverture-5-2.6a6d2424dd6c2f16e569.jpg",
     "static/media/logo-minimal-horizontale.svg": "/static/media/logo-minimal-horizontale.2ae0f09416fe5aeed3ee465b2c904414.svg",
+    "static/media/img-couverture-4-2.jpg": "/static/media/img-couverture-4-2.af78168496c1a7b2932f.jpg",
+    "static/media/img-couverture-2-2.jpg": "/static/media/img-couverture-2-2.669da884ba6bfef3bd52.jpg",
     "static/media/logo - La Rose des Vents - png - fond noir.png": "/static/media/logo - La Rose des Vents - png - fond noir.6e34bbbcf8d1136a3e47.png",
-    "static/media/img-couverture-2.jpg": "/static/media/img-couverture-2.b82931215b800c97cefe.jpg",
+    "static/media/IMG-20220329-WA0001.jpg": "/static/media/IMG-20220329-WA0001.bb22fcf2ef12183298cf.jpg",
     "static/media/YesevaOne-Regular.ttf": "/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
     "static/media/Aviano-Sans-Light.ttf": "/static/media/Aviano-Sans-Light.cbd70527e2eda2c139ea.ttf",
     "static/media/logo-minimal-noir.svg": "/static/media/logo-minimal-noir.2796df06db3bfd1799cc6a67f457637c.svg",
     "index.html": "/index.html",
-    "main.733c791b.css.map": "/static/css/main.733c791b.css.map",
-    "main.409edf0f.js.map": "/static/js/main.409edf0f.js.map",
+    "main.33f74491.css.map": "/static/css/main.33f74491.css.map",
+    "main.d28f7e03.js.map": "/static/js/main.d28f7e03.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.733c791b.css",
-    "static/js/main.409edf0f.js"
+    "static/css/main.33f74491.css",
+    "static/js/main.d28f7e03.js"
   ]
 }
